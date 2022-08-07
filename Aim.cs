@@ -581,7 +581,7 @@ namespace Rain
         {
             PSPS2.Text = "Conectando...";
             PSPS2.ForeColor = Color.Orange;
-            Apply_Changes_InMemory("00 00 70 41 00 00 0C 42 00 00 20 41 00 00 A0 41", "00 00 70 41 00 00 0C 42 00 00 20 41 00 00 A0 00");
+            Apply_Changes_InMemory("LEAK BY SLASH", "LEAK BY SLASH");
         }
 
         private void guna2Button5_Click(object sender, EventArgs e)
@@ -589,7 +589,7 @@ namespace Rain
 
             PSPS2.Text = "Conectando...";
             PSPS2.ForeColor = Color.Orange;
-            Apply_Changes_InMemory("00 00 70 41 00 00 0C 42 00 00 20 41 00 00 A0 00", "00 00 70 41 00 00 0C 42 00 00 20 41 00 00 A0 41");
+            Apply_Changes_InMemory("LEAK BY SLASH", "LEAK BY SLASH");
         }
 
     }
